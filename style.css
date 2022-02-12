@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: #1C1C1C;
+    background-color: #dbde9b;
 }
 
 .container {
@@ -39,11 +39,11 @@ body {
 }
 
 .title-container h1 {
-    color: #7986CB;
+    color: #07a32c;
 }
 
 .button, .button:active, .button:visited {
-    background-color: #5C6BC0;
+    background-color: #o7a32c;
     border-radius: 30px;
     width: 150px;
     height: 40px;
